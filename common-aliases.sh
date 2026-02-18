@@ -6,3 +6,5 @@ alias cfs='caffeinate -ids'
 
 # Quick shortcut for launching tmux.
 alias t=tmux
+
+alias lsl='ls -lah'

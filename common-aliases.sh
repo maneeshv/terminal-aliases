@@ -9,3 +9,6 @@ alias t=tmux
 
 alias tns='t new -s'
 alias lsl='ls -lah'
+
+#Install to use the below command: brew install smartmontools
+alias ssdlifecheck='sudo smartctl -a /dev/disk0'

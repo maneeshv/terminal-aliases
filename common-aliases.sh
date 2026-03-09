@@ -12,3 +12,6 @@ alias lsl='ls -lah'
 
 #Install to use the below command: brew install smartmontools
 alias ssdlifecheck='sudo smartctl -a /dev/disk0'
+
+# Kubernetes alias
+alias k='kubectl'

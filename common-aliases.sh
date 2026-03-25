@@ -15,3 +15,9 @@ alias ssdlifecheck='sudo smartctl -a /dev/disk0'
 
 # Kubernetes alias
 alias k='kubectl'
+
+#Docker compose alias
+alias d='docker'
+alias dc='docker compose'
+alias dcd='docker compose down'
+alias dcu='docker compose up'

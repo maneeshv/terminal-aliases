@@ -21,3 +21,6 @@ alias d='docker'
 alias dc='docker compose'
 alias dcd='docker compose down'
 alias dcu='docker compose up'
+
+# Claude
+alias claude='claude --allow-dangerously-skip-permissions'
